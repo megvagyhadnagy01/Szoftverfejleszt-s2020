@@ -1,0 +1,5 @@
+2020-03-29 20:09:59 [main] pkg.main.main()
+ERROR: This is an ERROR message
+2020-03-29 20:09:59 [main] pkg.main.main()
+ERROR: Something is wrong: java.lang.RuntimeException: Osps:P
+	at pkg.main.main(main.java:16)
